@@ -114,7 +114,9 @@ As an international group, we bring a diverse range of expertise and experience 
 
 ## Collaborators
 
-*   Darío López Díaz, Ph.D.
+*   **Dr. Darío López Díaz**
+Theoretical Physicist | Data Science Researcher     
+ 
 *   Sebastían Acevedo, Ph.D(c).   
 *   Raúl Guerrero, Ph.D.  
 *   Eduardo Jeraldo, M.P.M.
