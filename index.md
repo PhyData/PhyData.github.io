@@ -115,7 +115,7 @@ Our primary goal is harnessing the power of data analysis and machine learning t
 *   **Darío López Díaz, Ph.D** Theoretical Physicist - Data Science Researcher     
      Fields: Machine-Learning, Supergravity, String Theory and Black Holes.   
       
-*   **Sebastían Acevedo, Ph.D(c)**
+*   **Sebastían Acevedo, Ph.D(c)** Particle Physicist 
     
 *   **Raúl Guerrero, Ph.D**
  
