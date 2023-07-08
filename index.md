@@ -110,8 +110,6 @@ We are an international group of Physicist professionals dedicated to Data Scien
 
 Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
 
-As an international group, we bring a diverse range of expertise and experience from physics and data science fields. We collaborate to address Time Forecasting projects across domains such as finance, energy, climate, traffic, sales, and many other sectors where accurate and reliable prediction is crucial for informed decision-making.
-
 ## Collaborators
 
 *   **Dr. Darío López Díaz** Theoretical Physicist - Data Science Researcher     
