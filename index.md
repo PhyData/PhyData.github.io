@@ -114,7 +114,7 @@ As an international group, we bring a diverse range of expertise and experience 
 
 ## Collaborators
 
-*   **Dr. Darío López Díaz** Theoretical Physicist | Data Science Researcher     
+*   **Dr. Darío López Díaz** Theoretical Physicist - Data Science Researcher     
      Fields: Machine-Learning, Supergravity, String Theory and Black Holes.   
       
 *   Sebastían Acevedo, Ph.D(c).   
