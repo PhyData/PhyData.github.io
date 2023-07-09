@@ -112,7 +112,7 @@ Our primary goal is harnessing the power of data analysis and machine learning t
 
 ## Collaborators
 
-*   **Darío López Díaz, Ph.D** [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/dariolopezd).  
+*   **Darío López Díaz, Ph.D** [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/dariolopezd)
       
 *   **Sebastían Acevedo, Ph.D(c)**  
     
