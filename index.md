@@ -114,14 +114,14 @@ Our primary goal is harnessing the power of data analysis and machine learning t
 
 *   **Darío López Díaz, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/)
       
-*   **Sebastían Acevedo, Ph.D(c)**  
+*   **Sebastían Acevedo, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>]()
     
-*   **Raúl Guerrero, Ph.D**
+*   **Raúl Guerrero, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>]()  
  
-*   **Eduardo Jeraldo, M.P.M**
+*   **Eduardo Jeraldo, M.P.M**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>]()
 
-*   **Abel López, B.Sc**
+*   **Abel López, B.Sc**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>]()
   
-*   **Elram Figueroa, Ph.D(c)**
+*   **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>]()
 
-*   **Juan Calles, Ph.D** 
+*   **Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>]() 
