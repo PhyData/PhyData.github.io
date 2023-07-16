@@ -109,20 +109,3 @@ The final element.
 We are an international group of Physicist professionals dedicated to Data Science projects with a strong focus on Machine Learning, particularly in Time Forecasting. Our group comprises highly skilled individuals passionate about applying advanced machine learning techniques to tackle challenges related to accurate temporal prediction.
 
 Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
-
-## Collaborators
-
-*   **Darío López Díaz, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/)
-      
-*   **Sebastían Acevedo, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)
-    
-*   **Raúl Guerrero, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/raul-guerrero-science/)  
- 
-*   **Eduardo Jeraldo, M.P.M**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/ejeraldo/)
-
-*   **Abel López, B.Sc**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel) 
-  
-*   **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
-
-*   **Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
-
