@@ -120,7 +120,7 @@ Our secondary mission is to help physicists to become a Data Scientists, with cl
   
 **Raúl Guerrero, Ph.D** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/raul-guerrero-science/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Eduardo Jeraldo, M.P.M** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/ejeraldo/)
 
-**Abel López, B.Sc** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel)[<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Elram Figueroa, Ph.D(c)** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
+**Abel López, B.Sc** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Elram Figueroa, Ph.D(c)** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
   
 **Juan Calles, Ph.D** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
 
