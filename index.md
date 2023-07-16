@@ -109,8 +109,10 @@ The final element.
 We are an international group of Physicist professionals dedicated to Data Science projects with a strong focus on Machine Learning. Our group comprises highly skilled individuals passionate about applying advanced machine learning techniques to tackle challenges related to accurate predictions.
 
 Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
+* [Our Projects](https://phydata.github.io/projects)  
 
-Our secondary mission is to help physicists to [become a Data Scientists](https://phydata.github.io/become), with clear projects paths that we actively support.          
+Our secondary mission is to help physicists to become a Data Scientists, with clear projects paths that we actively support.          
+* [become a Data Scientists](https://phydata.github.io/become)
 
 ## Collaborators
 
@@ -127,7 +129,3 @@ Our secondary mission is to help physicists to [become a Data Scientists](https:
 *   **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
   
 *   **Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
-
-## Our Projects 
-
-To be published.
