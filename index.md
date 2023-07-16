@@ -124,4 +124,11 @@ Our secondary mission is to help physicists to become a Data Scientists, with cl
   
 **Juan Calles, Ph.D** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
 
-
+<div class="columns">
+   <div class="column">
+     ///  Column 1: Put any relevant content here   ///
+   </div>
+   <div class="column">
+     ///  Column 2: Put any relevant content here  ///
+  </div>
+</div>
