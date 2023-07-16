@@ -110,20 +110,24 @@ We are an international group of Physicist professionals dedicated to Data Scien
 
 Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
 
-Our secondary mission is to help physicists to become Data Scientists, with clear projects paths that we actively support.          
+Our secondary mission is to help physicists to [become a Data Scientists](https://phydata.github.io/become), with clear projects paths that we actively support.          
 
 ## Collaborators
 
-*   **Darío López Díaz, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/)     
-*   **Sebastían Acevedo, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)    
-*   **Raúl Guerrero, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/raul-guerrero-science/)   
+*   **Darío López Díaz, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/)
+      
+*   **Sebastían Acevedo, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)
+  
+*   **Raúl Guerrero, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/raul-guerrero-science/)
+  
 *   **Eduardo Jeraldo, M.P.M**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/ejeraldo/)
-*   **Abel López, B.Sc**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel)[<img src="LinkLOGO.png" alt="drawing" width="20"/>]()    
+  
+*   **Abel López, B.Sc**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel)[<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/)
+     
 *   **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
+  
 *   **Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
 
 ## Our Projects 
 
 To be published.
-
-### [Become a Data Scientist](https://phydata.github.io/become)
