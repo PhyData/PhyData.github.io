@@ -104,12 +104,5 @@ The final element.
 ```
 --> 
 
-# Proyects Path
-
-
-# Recommended Courses
-
-* [FCC - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-* [FCC - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-* [FCC - Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+# Projects
 
