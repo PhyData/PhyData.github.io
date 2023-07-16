@@ -104,8 +104,12 @@ The final element.
 ```
 --> 
 
-# About us
+# Proyects Path
 
-We are an international group of Physicist professionals dedicated to Data Science projects with a strong focus on Machine Learning, particularly in Time Forecasting. Our group comprises highly skilled individuals passionate about applying advanced machine learning techniques to tackle challenges related to accurate temporal prediction.
 
-Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
+# Recommended Courses
+
+* [FCC - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+* [FCC - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+* [FCC - Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+
