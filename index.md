@@ -125,3 +125,9 @@ Our primary goal is harnessing the power of data analysis and machine learning t
 *   **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
 
 *   **Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
+
+## Projects 
+
+To be published.
+
+## [Become a Data Scientist](https://phydata.github.io/become)
