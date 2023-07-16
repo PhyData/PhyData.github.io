@@ -116,12 +116,12 @@ Our secondary mission is to help physicists to become a Data Scientists, with cl
 
 ## Collaborators
 
-**Darío López Díaz, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/) &nbsp; &nbsp; &nbsp; &nbsp; **Sebastían Acevedo, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)
+**Darío López Díaz, Ph.D** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/) &nbsp; &nbsp; &nbsp; &nbsp; **Sebastían Acevedo, Ph.D(c)** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)
   
-**Raúl Guerrero, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/raul-guerrero-science/) &nbsp; &nbsp; &nbsp; &nbsp; **Eduardo Jeraldo, M.P.M**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/ejeraldo/)
+**Raúl Guerrero, Ph.D** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/raul-guerrero-science/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  **Eduardo Jeraldo, M.P.M** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/ejeraldo/)
 
-**Abel López, B.Sc**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel)[<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/) &nbsp; &nbsp; &nbsp; &nbsp; **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
+**Abel López, B.Sc** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/eibel)[<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/) &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Elram Figueroa, Ph.D(c)** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
   
-**Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
+**Juan Calles, Ph.D** &nbsp; [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
 
 
