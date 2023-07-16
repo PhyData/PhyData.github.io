@@ -129,3 +129,16 @@ Our secondary mission is to help physicists to become a Data Scientists, with cl
 *   **Elram Figueroa, Ph.D(c)**  [<img src="github-mark.png" alt="drawing" width="20"/>]() [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/)
   
 *   **Juan Calles, Ph.D**  [<img src="github-mark.png" alt="drawing" width="20"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="20"/>](https://www.linkedin.com/in/juan-calles-95590710a/) 
+
+<table>
+  <tr>
+    <td>Cell 1</td>
+    <td>Cell 2</td>
+    <td>Cell 3</td>
+  </tr>
+  <tr>
+    <td>Cell 4</td>
+    <td>Cell 5</td>
+    <td>Cell 6</td>
+  </tr>
+</table>
