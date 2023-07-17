@@ -107,7 +107,7 @@ The final element.
 # Projects
 We have two kinds of projects, introductory and advanced. As introduction, we develop projects of data analisis with Pandas passing from data exploration, graphical tools and correlations. The advanced projects are focused on Machine Learning.     
 
-## Machine Learning - Forecast  
+## Machine Learning
 
 * [Bitcoin Forecast](https://github.com/PhyData/Bitcoin_Forecast): In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
   
