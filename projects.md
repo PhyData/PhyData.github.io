@@ -111,4 +111,5 @@ We have two kinds of projects, introductory and advanced. As introduction, we de
 
 ## Machine Learning - Forecast  
 
-* [Bitcoin Ferecast](https://github.com/PhyData/Bitcoin_Forecast). In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
+* [Bitcoin Forecast](https://github.com/PhyData/Bitcoin_Forecast). In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
+* [Temperature Forecast](https://github.com/PhyData/Temperature_Forecast). In this project, we perform a forecast of temperature values from 2009 to 2017 with lectures every 10 seconds. We have a total of 4.2 x 10^5 values, this allow us to generate a precise prediction using LSTM layer API.
