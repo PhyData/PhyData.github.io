@@ -105,7 +105,7 @@ The final element.
 --> 
 
 # Projects
-We have two kinds of projects, introductory and advance. As introduction, we develop projects of data analisis with Pandas passing from data exploration, graphical tools and correlations. The advanced projects are focused on Machine Learning.     
+We have two kinds of projects, introductory and advanced. As introduction, we develop projects of data analisis with Pandas passing from data exploration, graphical tools and correlations. The advanced projects are focused on Machine Learning.     
 
 ## Data Analisis with Pandas
 
