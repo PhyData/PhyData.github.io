@@ -107,9 +107,20 @@ The final element.
 # Projects
 We have two kinds of projects, introductory and advanced. As introduction, we develop projects of data analisis with Pandas passing from data exploration, graphical tools and correlations. The advanced projects are focused on Machine Learning.     
 
-## Data Analisis with Pandas
+## Data Analisis 
+
+* [Medical Data Visualizer](https://github.com/PhyData/Medical_Data_Visualizer): In this project
+
+* [Handwashing Effect](https://github.com/PhyData/Handwashing_Effect)
+  
+* [Demographic Analizer](https://github.com/PhyData/Demographic_Analizer)
+  
+* [Sea Level Predictor](https://github.com/PhyData/Sea_Level_Predictor)
+  
+* [Views on FCC forum](https://github.com/PhyData/Views_FCCForum)
 
 ## Machine Learning - Forecast  
 
-* [Bitcoin Forecast](https://github.com/PhyData/Bitcoin_Forecast). In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
-* [Temperature Forecast](https://github.com/PhyData/Temperature_Forecast). In this project, we perform a forecast of temperature values from 2009 to 2017 with lectures every 10 seconds. We have a total of 4.2 x 10^5 values, this allow us to generate a precise prediction using the LSTM layer API.
+* [Bitcoin Forecast](https://github.com/PhyData/Bitcoin_Forecast): In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
+  
+* [Temperature Forecast](https://github.com/PhyData/Temperature_Forecast): In this project, we perform a forecast of temperature values from 2009 to 2017 with lectures every 10 seconds. We have a total of 4.2 x 10^5 values, this allow us to generate a precise prediction using the LSTM layer API.
