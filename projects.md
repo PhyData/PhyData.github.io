@@ -111,4 +111,4 @@ We have two kinds of projects, introductory and advanced. As introduction, we de
 
 ## Machine Learning - Forecast  
 
-
+* [Bitcoin Ferecast](https://github.com/PhyData/Bitcoin_Forecast). In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
