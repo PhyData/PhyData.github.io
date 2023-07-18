@@ -115,7 +115,7 @@ We have two kinds of projects, introductory and advanced. As introduction, we de
 
 ## Data Analisis 
 
-* [Medical Data Visualizer](https://github.com/PhyData/Medical_Data_Visualizer): In this project
+* [Medical Data Visualizer](https://github.com/PhyData/Medical_Data_Visualizer)
 
 * [Handwashing Effect](https://github.com/PhyData/Handwashing_Effect)
   
