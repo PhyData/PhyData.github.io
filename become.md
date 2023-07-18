@@ -105,10 +105,16 @@ The final element.
 --> 
 # Recommended Books
 
+* Murphy, K. (2012). Machine Learning : A Probabilistic Perspective. [DOI](http://cds.cern.ch/record/1981503)
+* Vaughn, B. K. (2008). Data Analysis using Regression and Multilevel/hierarchical Models, by Gelman, A., & Hill, J. Journal of Educational Measurement, 45(1), 94-97. [DOI](https://doi.org/10.1111/j.1745-3984.2007.00053_2.x)
+* Han, J., Kamber, M., & Pei, J. (2012). Data Mining: Concepts and techniques. Choice Reviews Online, 49(06), 49-3305. [DOI(]https://doi.org/10.5860/choice.49-3305)
+* Knaflic, C. N. (2016). Storytelling with Data: A data visualization guide for business professionals. Choice Reviews Online, 53(11), 53-4875. [DOI](https://doi.org/10.5860/choice.197388)
+* Kuhn, M., & Johnson, K. (2013). Applied Predictive Modeling. Springer eBooks. [DOI](https://doi.org/10.1007/978-1-4614-6849-3)
+
 
 # Recommended Courses
 
-* [FCC - Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
-* [FCC - Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
-* [FCC - Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
+* [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
+* [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
+* [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
 
