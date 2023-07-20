@@ -105,7 +105,8 @@ The final element.
 --> 
 ### Dr. Raúl Guerrero  
 
-![DrGuerrero](Raul.jpg) 
+<img src="Raul.jpg" alt="drawing" width="200"/> 
+
 I'm a Physicist and Data Scientist.    
 
 ## Data Scientist
