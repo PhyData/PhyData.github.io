@@ -114,7 +114,7 @@ Our primary goal is harnessing the power of data analysis and machine learning t
 Our secondary mission is to help physicists to become a Data Scientists, with clear projects paths that we actively support.          
 * [Our recommendations](https://phydata.github.io/become)
 
-## Collaborators
+## Research Team
 
 | Members                         | Pages             |
 |:--------------------------------|:------------------|
