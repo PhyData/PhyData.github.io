@@ -114,6 +114,8 @@ We have two kinds of projects, introductory and advanced. As introduction, we de
   
 * [Temperature Forecast](https://github.com/PhyData/Temperature_Forecast): In this project, we perform a forecast of temperature values from 2009 to 2017 with lectures every 10 seconds. We have a total of 4.2 x 10^5 values, this allow us to generate a precise prediction using the LSTM layer API.
 
+  <img src="https://deepnote.com/workspace/datascience-team-b432e07c-c1c9-4993-8bea-055999c31436/project/Temperature-forecast-PyTorch-LSTM-2bea62e9-8d22-46a6-9eb4-51194a5da2d7/%2FT_plot.png" alt="drawing" width="25"/>
+
 ## Data Analisis 
 
 * [Medical Data Visualizer](https://github.com/PhyData/Medical_Data_Visualizer)
