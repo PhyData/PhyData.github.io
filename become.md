@@ -117,8 +117,5 @@ The final element.
 * [Scientific Computing with Python](https://www.freecodecamp.org/learn/scientific-computing-with-python/)
 * [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/)
 * [Machine Learning with Python](https://www.freecodecamp.org/learn/machine-learning-with-python/)
-
-  <iframe width="420" height="315"
-src="https://www.youtube.com/watch?v=8mAITcNt710&t=823s">
-</iframe>
+* [Harvard CS50 – Full Computer Science University Course](https://www.youtube.com/watch?v=8mAITcNt710&t=823s)
 
