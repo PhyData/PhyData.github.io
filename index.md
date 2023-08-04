@@ -108,6 +108,8 @@ The final element.
 
 We are an international group of Physicist professionals dedicated to Data Science projects with a strong focus on Machine Learning. Our group comprises highly skilled individuals passionate about applying advanced machine learning techniques to tackle challenges related to accurate predictions.
 
+### [Research Team](https://phydata.github.io/research_team) 
+
 Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
 * [Our Projects](https://phydata.github.io/projects)  
 
