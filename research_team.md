@@ -105,7 +105,7 @@ The final element.
 --> 
 # Research Team 
 
-We have a very skilled team coming from diverse backgrounds, from Theoretical Physics, Particle Physics, Condensed Matter, Astronomy and Experimental Physics. We share a very solid academic formation that we exploit to solve real life problems.           
+We have a highly skilled team coming from diverse backgrounds, including Theoretical Physics, Particle Physics, Condensed Matter, Astronomy, and Experimental Physics. We share a strong academic foundation that we leverage to solve real-life problems.           
 
 | Members                         | Pages             |
 |:--------------------------------|:------------------|
