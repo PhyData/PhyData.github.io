@@ -103,27 +103,16 @@ Long, single-line code blocks should not wrap. They should horizontally scroll i
 The final element.
 ```
 --> 
+# Research Team 
 
+We have a very skilled team coming from diverse backgrounds, from Theoretical Physics, Particle Physics, Condensed Matter, Astronomy and Experimental Physics. We share a very solid academic formation that we exploit to solve real life problems.           
 
-# Projects
-We have two kinds of projects, introductory and advanced. As introduction, we develop projects of data analisis with Pandas passing from data exploration, graphical tools and correlations. The advanced projects are focused on Machine Learning.     
-
-## Machine Learning
-
-* [Bitcoin Forecast](https://github.com/PhyData/Bitcoin_Forecast): In this project, we conducted a forecast of the closing price of Bitcoin using skforecast and the LGBM regressor. To assess the accuracy of our predictions, we compared them with the actual Bitcoin prices.
-  
-* [Temperature Forecast](https://github.com/PhyData/Temperature_Forecast): In this project, we perform a forecast of temperature values from 2009 to 2017 with lectures every 10 seconds. We have a total of 4.2 x 10^5 values, this allow us to generate a precise prediction using the LSTM layer API.
-
- <!-- <img src="" alt="drawing" width="25"/> -->
-
-## Data Analisis 
-
-* [Medical Data Visualizer](https://github.com/PhyData/Medical_Data_Visualizer)
-
-* [Handwashing Effect](https://github.com/PhyData/Handwashing_Effect)
-  
-* [Demographic Analizer](https://github.com/PhyData/Demographic_Analizer)
-  
-* [Sea Level Predictor](https://github.com/PhyData/Sea_Level_Predictor)
-  
-* [Views on FCC forum](https://github.com/PhyData/Views_FCCForum)
+| Members                         | Pages             |
+|:--------------------------------|:------------------|
+|**Darío López Díaz, Ph.D**       | [<img src="github-mark.png" alt="drawing" width="25"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/)  | 
+| **Sebastián Acevedo, Ph.D(c)**  | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)     | 
+| **Raúl Guerrero, Ph.D**         | [<img src="github-mark.png" alt="drawing" width="25"/>]() [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/raul-guerrero-science/)      | 
+| **Eduardo Jeraldo, M.P.M**      | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/ejeraldo/) | 
+| **Abel López, B.Sc**            | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/eibel) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
+| **Elram Figueroa, Ph.D(c)**     | [<img src="github-mark.png" alt="drawing" width="25"/>]() [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/) |
+| **Juan Calles, Ph.D**           | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/juan-calles-95590710a/)  |
