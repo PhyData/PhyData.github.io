@@ -111,19 +111,11 @@ We are an international group of Physicist professionals dedicated to Data Scien
 ### [Research Team](https://phydata.github.io/research_team) 
 
 Our primary goal is harnessing the power of data analysis and machine learning to make precise forecasts in various domains and contexts. We specialize in developing advanced models and algorithms that leverage historical information and temporal patterns to make predictions and anticipate future events.
-* [Our Projects](https://phydata.github.io/projects)  
+
+### [Our Projects](https://phydata.github.io/projects)  
 
 Our secondary mission is to help physicists to become a Data Scientists, with clear projects paths that we actively support.          
-* [Our recommendations](https://phydata.github.io/become)
 
-## Research Team
+###[Our recommendations](https://phydata.github.io/become)
 
-| Members                         | Pages             |
-|:--------------------------------|:------------------|
-|**Darío López Díaz, Ph.D**       | [<img src="github-mark.png" alt="drawing" width="25"/>](https://dariolopezd.github.io/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/dar%C3%ADo-l%C3%B3pez-d%C3%ADaz-6b646837/)  | 
-| **Sebastián Acevedo, Ph.D(c)**  | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/sebastianacevedoespinoza) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/sebasti%C3%A1n-acevedo-espinoza-611b52282/)     | 
-| **Raúl Guerrero, Ph.D**         | [<img src="github-mark.png" alt="drawing" width="25"/>]() [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/raul-guerrero-science/)      | 
-| **Eduardo Jeraldo, M.P.M**      | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/Lanzet) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/ejeraldo/) | 
-| **Abel López, B.Sc**            | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/eibel) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
-| **Elram Figueroa, Ph.D(c)**     | [<img src="github-mark.png" alt="drawing" width="25"/>]() [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/) |
-| **Juan Calles, Ph.D**           | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/juan-calles-95590710a/)  |
+
