@@ -117,5 +117,5 @@ We have a highly skilled team coming from diverse backgrounds, including Theoret
 | **Elram Figueroa, Ph.D(c)**     | [<img src="github-mark.png" alt="drawing" width="25"/>]() [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/elram-figueroa-b4847774/) |
 | **Juan Calles, Ph.D**           | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/jcallesh) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/in/juan-calles-95590710a/)  |
 | **Yerko Novoa, M.Sc**           | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
-| **Mauricio Ramirez**           | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
+| **Mauricio Ramirez**            | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
 
