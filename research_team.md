@@ -119,4 +119,6 @@ We have a highly skilled team coming from diverse backgrounds, including Theoret
 | **Yerko Novoa, M.Sc**           | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
 | **Mauricio Ramirez, Ph.D(c)**   | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
 | **Ignacio Diaz, M.Sc**          | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
-
+| **Bastian Ayala, **             | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
+| **Sebastián Filipini, **        | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
+| **NachoxLeon**                  | [<img src="github-mark.png" alt="drawing" width="25"/>](https://github.com/) [<img src="LinkLOGO.png" alt="drawing" width="25"/>](https://www.linkedin.com/)  |
