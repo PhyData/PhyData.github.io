@@ -114,6 +114,8 @@ We have two kinds of projects, introductory and advanced. As introduction, we de
   
 * [Temperature Forecast](https://github.com/PhyData/Temperature_Forecast): In this project, we perform a forecast of temperature values from 2009 to 2017 with lectures every 10 seconds. We have a total of 4.2 x 10^5 values, this allow us to generate a precise prediction using the LSTM layer API.
 
+* [Avocado Analytics](https://github.com/PhyData/avocado_analytics)
+
  <!-- <img src="" alt="drawing" width="25"/> -->
 
 ## Data Analisis 
